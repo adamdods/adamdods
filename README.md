@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello there, I'm Adam Dods:
 I'm a final year math and computer science student looking for experience
 
 
