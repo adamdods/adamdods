@@ -1,5 +1,5 @@
-# 💫 Hello there, I'm Adam Dods:
-I'm a final year math and computer science student looking for experience
+# 💫 Hello there! Welcome to my Github page!
+
 
 
 ## 🌐 Socials:
