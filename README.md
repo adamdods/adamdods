@@ -1,4 +1,4 @@
-# 💫 Hello there! Welcome to my Github page!
+# 💫 Hello there! Welcome to my Github page! (In progress)
 Hi! I'm a final-year student pursuing a Bachelor's in Mathematics and Computer Science. My passion lies in blending the precision of mathematics with the creativity of programming. On this GitHub, you'll find a mix of projects from my university work, professional experience, and fun side projects that reflect my growing skill set.
 
 Whether it's solving complex mathematical problems or building practical applications, I love tackling new challenges and expanding my knowledge. I am always excited to learn and collaborate, and I hope my code can inspire and help others in the tech and math communities!
